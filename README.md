@@ -1,2 +1,2 @@
 # CS-Projects
-This contains projects that I complete for school.
+This contains projects that I completed for school.
